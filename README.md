@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OYAK Securities as an .NET & iOS Developer
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on new Flutter projects.
+- 💬 Ask me about Backend and iOS development.
+- 📫 How to reach me: emre[at]kunt.dev
 <!--
 **kuntdev/kuntdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
